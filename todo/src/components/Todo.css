@@ -1,0 +1,16 @@
+.item {
+  color: white;
+  font-size: 20px;
+  border: 1px solid white;
+  background: dodgerblue;
+  padding: 1%;
+  border-radius: 30px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.todo-items {
+  padding: 1%;
+}
